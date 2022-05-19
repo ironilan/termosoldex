@@ -1,0 +1,85 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.h-10 {
+  height: 100px;
+}
+
+.contenido_banner {
+  position: absolute;
+  top: 16rem;
+  left: 4rem;
+}
+
+.mt-img-effect {
+  position: relative;
+}
+
+.app_slider {
+  position: relative;
+}
+
+.p-relative {
+  position: relative;
+}
+
+.image-effect-one {
+  background-color: #fff !important;
+}
+
+.mt-thum-bx img {
+  width: 100%;
+  height: 250px;
+}
+
+@media (max-width: 600px) {
+  .contenido_banner {
+    position: absolute;
+    top: 10rem;
+    left: 4rem;
+  }
+
+  .title_slider {
+    font-size: 22px !important;
+  }
+
+  .mt-thum-bx img {
+    width: 100%;
+    height: 200px;
+  }
+}
+
+.icono_unidad {
+  width: 80px !important;
+  height: 80px !important;
+  border-radius: 50%;
+  border: none;
+}
+
+.mt-breadcrumb li {
+  font-size: 20px !important;
+}
+
+.fs5rem {
+  font-size: 5rem !important;
+  line-height: 43px !important;
+}
+
+.bannerprincipal_socio .owl-item img {
+  height: 500px !important;
+}
+
+.img_proy_interna {
+  height: 400px !important;
+}

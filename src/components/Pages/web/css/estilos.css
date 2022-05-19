@@ -1,0 +1,77 @@
+.logoInterno {
+  width: 26rem;
+  height: 11rem;
+}
+
+.fs-16 {
+  font-size: 16px;
+  margin-top: 10px;
+  text-align: justify;
+}
+
+.our-team-1 .profile-image img {
+  max-width: 100%;
+  vertical-align: top;
+  position: relative;
+  border-radius: 0 !important;
+  height: 25rem;
+  width: 100%;
+  max-width: 100%;
+}
+
+.our-team-1 .figcaption {
+  padding: 5% 10% 3%;
+}
+
+.our-team-1 .profile-image {
+  padding: 0 0 0 !important;
+}
+
+.nav-active {
+  color: #d61e15 !important;
+}
+
+.image-effect-two img {
+  height: 270px !important;
+}
+
+.mt-thum-bx img {
+  height: 42rem;
+}
+
+.app_height img {
+  height: 20rem;
+}
+
+.mt-media img {
+  height: 260px !important;
+}
+
+.app_links {
+  padding: 10rem 0;
+}
+
+.mb-3px {
+  margin-bottom: 3px;
+}
+
+.app_he_link {
+  height: 7rem;
+  display: flex;
+}
+
+.list_link {
+  list-style: none;
+}
+
+.app_he_link i {
+  padding-top: 17px;
+  padding-right: 1rem;
+  font-size: 20px;
+}
+
+@media (max-width: 600px) {
+  .app_slider {
+    top: 0 !important;
+  }
+}

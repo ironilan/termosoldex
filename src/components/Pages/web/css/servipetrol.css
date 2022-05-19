@@ -1,0 +1,37 @@
+
+.colorservipetrol {
+  color: #f8b715 !important;
+}
+
+.bgservipetrol {
+  background-color: #f8b715 !important;
+}
+
+.servipetrol .header-nav .nav > li .sub-menu li a:hover,
+.servipetrol .m-about-years {
+  border-left: 10px solid #f8b715 !important;
+}
+
+.servipetrol:after {
+  background-color: #f8b715 !important;
+}
+
+.servipetrol > .owl-dots .active span{
+  background-color: #f8b715 !important;
+}
+
+.servipetrol .mt-separator:before,
+.servipetrol .sep-line-one:before,
+.servipetrol .sep-line-one:after,
+.servipetrol .mt-separator:after {
+  background-color: #f8b715 !important;
+}
+
+.servipetrol .social-icons li a:hover {
+  background-color: #f8b715 !important;
+}
+
+.servipetrol .site-button.btn-effect:before,
+.servipetrol .site-button.btn-effect:after {
+  border-color: #f8b715 !important;
+}

@@ -1,0 +1,21 @@
+.carousel_img {
+  width: 100%;
+}
+
+.app_slider {
+  position: absolute;
+  top: 30%;
+  left: 10%;
+}
+
+.title_slider {
+  font-size: 6rem;
+  margin: 5px 0;
+}
+
+.subtitle_slider {
+  font-size: 2.5rem;
+  margin: 15px 0;
+  width: 524px;
+  line-height: 1.2;
+}
